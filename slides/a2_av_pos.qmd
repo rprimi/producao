@@ -1,0 +1,33 @@
+---
+title: "Avaliação dos pesquisadores e da pós graduação"
+author: "Ricardo Primi, USF"
+format: revealjs
+editor: visual
+---
+
+## Avaliação da qualidade/impacto de artigos  
+
+-   [Journal Citation Reports](https://clarivate.com/webofsciencegroup/solutions/journal-citation-reports/)
+-   [Scimago Journal & Country Rank SJR](https://www.scimagojr.com/journalrank.php?area=3200&country=BR&scielo=false)
+-   [Scopus](https://www.scopus.com/home.uri)
+-   [Google Scholar](https://scholar.google.com/)
+
+## JCR
+
+- 
+
+## Medidas da produtividade de revistas
+
+-   Índice H
+
+![](images/paste-2712FB84.png){fig-align="center"}
+
+## 
+
+-   Índice H
+
+![](images/paste-2712FB84.png){fig-align="center"}
+-   
+-   Publish or Perish (http://www.harzing.com/pop.htm) Qualis e CAPES https://rprimi.shinyapps.io/capes_psico/
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see
