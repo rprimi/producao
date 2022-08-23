@@ -15,7 +15,7 @@ editor: visual
 ## JCR
 
 -   [Relatório JCR BJMSP](https://github.com/rprimi/producao_web/blob/main/doc/BJMSP%20InCites%20Journal%20Citation%20Reports.pdf)
--   [Avaliaçào das revistas de psicologia 2011](https://github.com/rprimi/producao_web/blob/main/doc/JCR-2011%20Psico.pdf)
+-   [Avaliação das revistas de psicologia 2011](https://github.com/rprimi/producao_web/blob/main/doc/JCR-2011%20Psico.pdf)
 
 ## Medidas da produtividade de revistas
 
@@ -23,12 +23,9 @@ editor: visual
 
 ![](images/paste-2712FB84.png){fig-align="center"}
 
-## 
+## Análise dos programas na CAPES
+-   [Dashboard da avaliação Quadrienal 2013-2016](https://rprimi.shinyapps.io/capes_psico/)
+-   [Análise dos indicadores de produção](http://www.labape.com.br/rprimi/producao/pi.html)
+-   Normas para o Índice H (2022)
+-   [Publish or Perish](http://www.harzing.com/pop.htm) 
 
--   Índice H
-
-## ![](images/paste-2712FB84.png){fig-align="center"}
-
--   Publish or Perish (http://www.harzing.com/pop.htm) Qualis e CAPES https://rprimi.shinyapps.io/capes_psico/
-
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see
