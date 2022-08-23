@@ -5,7 +5,7 @@ format: revealjs
 editor: visual
 ---
 
-## Avaliação da qualidade/impacto de artigos  
+## Avaliação da qualidade/impacto de artigos
 
 -   [Journal Citation Reports](https://clarivate.com/webofsciencegroup/solutions/journal-citation-reports/)
 -   [Scimago Journal & Country Rank SJR](https://www.scimagojr.com/journalrank.php?area=3200&country=BR&scielo=false)
@@ -14,7 +14,8 @@ editor: visual
 
 ## JCR
 
-- 
+-   [Relatório JCR BJMSP](https://github.com/rprimi/producao_web/blob/main/doc/BJMSP%20InCites%20Journal%20Citation%20Reports.pdf)
+-   [Avaliaçào das revistas de psicologia 2011](https://github.com/rprimi/producao_web/blob/main/doc/JCR-2011%20Psico.pdf)
 
 ## Medidas da produtividade de revistas
 
@@ -26,8 +27,8 @@ editor: visual
 
 -   Índice H
 
-![](images/paste-2712FB84.png){fig-align="center"}
--   
+## ![](images/paste-2712FB84.png){fig-align="center"}
+
 -   Publish or Perish (http://www.harzing.com/pop.htm) Qualis e CAPES https://rprimi.shinyapps.io/capes_psico/
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see
