@@ -1,6 +1,6 @@
 # Produção de Textos I
 
-![](images/paste-67F39A0C.png){width="80"}
+![](images/paste-67F39A0C.png)
 
 Site da disciplina Produção de Textos da pós graduação em Psicologia da Universidade São Francisco (USF)
 
