@@ -24,8 +24,8 @@ editor: visual
 ![](images/paste-2712FB84.png){fig-align="center"}
 
 ## Análise dos programas na CAPES
+
 -   [Dashboard da avaliação Quadrienal 2013-2016](https://rprimi.shinyapps.io/capes_psico/)
 -   [Análise dos indicadores de produção](http://www.labape.com.br/rprimi/producao/pi.html)
 -   Normas para o Índice H (2022)
--   [Publish or Perish](http://www.harzing.com/pop.htm) 
-
+-   [Publish or Perish](http://www.harzing.com/pop.htm)
