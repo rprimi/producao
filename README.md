@@ -6,17 +6,17 @@ Site da disciplina Produção de Textos da pós graduação em Psicologia da Uni
 
 ## Objetivos
 
--   Desenvolver competências e conhecimentos basais necessários à elaboração e análise crítica de artigos científicos\
--   Desenvolver competências de redação de artigos\
--   Desenvolver o raciocínio crítico em relação aos métodos de pesquisa em ciências humanas aplicados à produção de conhecimento\
--   Estimular a criatividade, o estudo, o domínio de conceitos de metodologia e psicometria por intermédio de discussões de projetos e artigos de pesquisa.\
+-   Desenvolver competências e conhecimentos basais necessários à elaboração e análise crítica de artigos científicos
+-   Desenvolver competências de redação de artigos
+-   Desenvolver o raciocínio crítico em relação aos métodos de pesquisa em ciências humanas aplicados à produção de conhecimento
+-   Estimular a criatividade, o estudo, o domínio de conceitos de metodologia e psicometria por intermédio de discussões de projetos e artigos de pesquisa.
 -   Produzir um artigo
 
 ## Programa
 
--   Estrutura dos artigos científicos e normas da APA\
--   Escrita científica\
--   Desenho de pesquisa e análise de dados\
+-   Estrutura dos artigos científicos e normas da APA
+-   Escrita científica
+-   Desenho de pesquisa e análise de dados
 -   Bases de dados de revistas, medidas de impacto e revisão bibliográfica
 
 ## Atividades
@@ -38,4 +38,4 @@ Site da disciplina Produção de Textos da pós graduação em Psicologia da Uni
   - [Tipos de artigos](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
   - [Partes de um artigo](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
 * 30/08
-  - [Partes de um artigo](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
+  - [Partes de um artigo](https://github.com/rprimi/producao_web/blob/main/slides/t1_partes_do_artigo.pptx) 
