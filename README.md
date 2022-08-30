@@ -36,4 +36,6 @@ Site da disciplina Produção de Textos da pós graduação em Psicologia da Uni
 * 23/08   
   - [Medidas de impacto de revistas e pesquisadores, Avaliação da qualidade da pós-graduação](http://www.labape.com.br/rprimi/producao/a2_av_pos.html)
   - [Tipos de artigos](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
-  - [Partes de um artigo](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0)                                
+  - [Partes de um artigo](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
+* 30/08
+  - [Partes de um artigo](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
