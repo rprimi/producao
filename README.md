@@ -38,4 +38,11 @@ Site da disciplina Produção de Textos da pós graduação em Psicologia da Uni
   - [Tipos de artigos](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
   - [Partes de um artigo](https://www.dropbox.com/s/2tbqv3n35v0p9dw/t1_partes_do_artigo.pptx?dl=0) 
 * 30/08
-  - [Partes de um artigo](https://github.com/rprimi/producao_web/blob/main/slides/t1_partes_do_artigo.pptx) 
+  - [Partes de um artigo](https://github.com/rprimi/producao_web/blob/main/slides/t1_partes_do_artigo.pptx)
+  
+* 6/09 e 13/09
+  - Revisão do problema de pesquisq
+
+* 20/09
+  - [A escrita nos artigos científicos ](https://github.com/rprimi/producao_web/blob/main/slides/t2_escrita.pptx)
+    
