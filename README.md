@@ -41,7 +41,7 @@ Site da disciplina Produção de Textos da pós graduação em Psicologia da Uni
   - [Partes de um artigo](https://github.com/rprimi/producao_web/blob/main/slides/t1_partes_do_artigo.pptx)
   
 * 6/09 e 13/09
-  - Revisão do problema de pesquisq
+  - Revisão do problema de pesquisa
 
 * 20/09
   - [A escrita nos artigos científicos ](https://github.com/rprimi/producao_web/blob/main/slides/t2_escrita.pptx)
